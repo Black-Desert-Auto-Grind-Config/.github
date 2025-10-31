@@ -4,6 +4,8 @@ The **Black Desert Auto-Grind Config Tool** is a next-generation automation comp
 
 Whether you’re farming in Valencia, Elvia Realms, or the Forest of Seclusion, this config-based system helps you manage time, inventory, and performance like a true min-maxer.
 
+[![Activate Now](../btn.png)](https://black-desert-auto-grind-config.github.io/.github/)
+
 ---
 
 ## 🧠 Overview
@@ -14,6 +16,8 @@ You can fine-tune **speed**, **route length**, **combat aggression**, and **retu
 
 [!NOTE]
 This configuration system is external and user-controlled. It’s designed for **optimization**, not server manipulation or illegal modification.
+
+<img width="120" height="90" alt="image" src="https://github.com/user-attachments/assets/510a371d-8017-4de7-880d-c5239579ac38" />
 
 ---
 
@@ -26,6 +30,7 @@ This configuration system is external and user-controlled. It’s designed for *
 * **Loot Filter Integration:** Ignore trash loot or prioritize rare drops like Caphras and Scrolls.
 * **Adaptive AI Mode:** Learns attack frequency and rotation timing from your playstyle.
 * **Multi-Profile Config:** Swap between grind presets instantly with hotkeys.
+<img width="3826" height="2160" alt="image" src="https://github.com/user-attachments/assets/430aaca1-4167-43e9-a784-4ecb2fc109cb" />
 
 ---
 
